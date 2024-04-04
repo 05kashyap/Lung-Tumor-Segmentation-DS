@@ -8,7 +8,7 @@ This project aims to automate the segmentation of tumors from lung scans using t
 - The preprocessing folder includes exploratory data analysis, general preprocessing and some experimental advanced preprocessing techniques
 - The UNet folder contains model training and a notebook which explains how to use it for inference
 
-#### Model can be found at: https://www.kaggle.com/models/aryankashyapnaveen/u-net-lung-segmentation : https://www.kaggle.com/models/aryankashyapnaveen/u-net-lung-segmentation
+#### Model can be found at: https://www.kaggle.com/models/aryankashyapnaveen/u-net-lung-segmentation
 
 ### We have used the following paper as reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10451633/
 
